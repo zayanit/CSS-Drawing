@@ -1,0 +1,93 @@
+:root {
+    --apple: #1d1d1f;
+    --background: #f5f5f7;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+    background: var(--background);
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60vmin;
+    height: 72vmin;
+}
+
+.container div {
+    position: absolute;
+    background: var(--apple);
+}
+
+.leaf {
+    left: 48%;
+    top: 0;
+    width: 24%;
+    height: 22%;
+    border-radius: 100% 0;
+    transform: rotate(-6deg);
+}
+
+.half {
+    top: 23%;
+    width: 58%;
+    height: 74%;
+    border-radius: 50%;
+}
+
+.left-half {
+    left: 1%;
+    transform: rotate(-14deg);
+}
+
+.right-half {
+    right: 1%;
+    transform: rotate(14deg);
+}
+
+.core {
+    left: 25%;
+    top: 28%;
+    width: 50%;
+    height: 60%;
+    border-radius: 50%;
+}
+
+/* cut-outs painted with the background color */
+.container .top-notch,
+.container .bottom-notch,
+.container .bite {
+    background: var(--background);
+    border-radius: 50%;
+}
+
+.top-notch {
+    left: 36%;
+    top: 19%;
+    width: 28%;
+    height: 12%;
+}
+
+.bottom-notch {
+    left: 43%;
+    top: 94.5%;
+    width: 14%;
+    height: 7%;
+}
+
+.bite {
+    left: 78%;
+    top: 33%;
+    width: 36%;
+    height: 32%;
+}
