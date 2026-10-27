@@ -13,7 +13,7 @@ Each drawing has its own top-level folder (`FERB-FACE/`, `SHANAB/`, `Pokemon/`, 
 - `style.css`: all the drawing logic
 - a `.png` screenshot of the finished result, which `README.md` embeds
 
-When you add a new drawing, follow the same layout: a new folder with `index.html`, `style.css`, and a screenshot. Then add a `## <Name>` section with the screenshot image to `README.md`. The README links images by absolute GitHub URL (`https://github.com/zayanit/CSS-Drawing/blob/master/<folder>/<file>.png`).
+When you add a new drawing, follow the same layout: a new folder with `index.html`, `style.css`, and a screenshot. Then add a `## [<Name>](<folder>)` section with the screenshot to `README.md`, using relative paths (`![<Name>](<folder>/<file>.png)`).
 
 ## CSS drawing conventions
 

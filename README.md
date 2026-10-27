@@ -1,19 +1,23 @@
 # CSS-Drawing
 
-## Ferb Face
-![FERB-FACE](https://github.com/zayanit/CSS-Drawing/blob/master/FERB-FACE/Ferb-face.png)
+Drawings made with pure HTML and CSS, no images, SVG, or JavaScript.
 
-## Shanab (mustache)
-![Shanab](https://github.com/zayanit/CSS-Drawing/blob/master/SHANAB/Shanab.png)
+Each drawing lives in its own folder with an `index.html`, a `style.css`, and a screenshot. To view one, open its `index.html` in a browser.
 
-## Pokemon
-![Pokemon](https://github.com/zayanit/CSS-Drawing/blob/master/Pokemon/pokemon.png)
+## [Ferb Face](FERB-FACE)
+![FERB-FACE](FERB-FACE/Ferb-face.png)
 
-## Homer
-![Homer](https://github.com/zayanit/CSS-Drawing/blob/master/Homer/homer.png)
+## [Shanab (mustache)](SHANAB)
+![Shanab](SHANAB/Shanab.png)
 
-## Cartoon-Face
-![Cartoon-Face](https://github.com/zayanit/CSS-Drawing/blob/master/cartoon-face/cartoon-face.png)
+## [Pokemon](Pokemon)
+![Pokemon](Pokemon/pokemon.png)
 
-## Apple
-![Apple](https://github.com/zayanit/CSS-Drawing/blob/master/apple/apple.png)
+## [Homer](Homer)
+![Homer](Homer/homer.png)
+
+## [Cartoon-Face](cartoon-face)
+![Cartoon-Face](cartoon-face/cartoon-face.png)
+
+## [Apple](apple)
+![Apple](apple/apple.png)
