@@ -4,23 +4,41 @@ Drawings made with pure HTML and CSS, no images, SVG, or JavaScript.
 
 Each drawing lives in its own folder with an `index.html`, a `style.css`, and a screenshot. To view one, open its `index.html` in a browser.
 
-## [Ferb Face](FERB-FACE)
-![FERB-FACE](FERB-FACE/Ferb-face.png)
+Click a thumbnail to see it full size, or a name to see its code.
 
-## [Shanab (mustache)](SHANAB)
-![Shanab](SHANAB/Shanab.png)
-
-## [Pokemon](Pokemon)
-![Pokemon](Pokemon/pokemon.png)
-
-## [Homer](Homer)
-![Homer](Homer/homer.png)
-
-## [Cartoon-Face](cartoon-face)
-![Cartoon-Face](cartoon-face/cartoon-face.png)
-
-## [Apple](apple)
-![Apple](apple/apple.png)
-
-## [Citizen](citizen)
-![Citizen](citizen/citizen.png)
+<table>
+  <tr>
+    <td align="center">
+      <a href="FERB-FACE/Ferb-face.png"><img src="FERB-FACE/Ferb-face.png" width="250" alt="Ferb Face"></a><br>
+      <a href="FERB-FACE">Ferb Face</a>
+    </td>
+    <td align="center">
+      <a href="SHANAB/Shanab.png"><img src="SHANAB/Shanab.png" width="250" alt="Shanab (mustache)"></a><br>
+      <a href="SHANAB">Shanab (mustache)</a>
+    </td>
+    <td align="center">
+      <a href="Pokemon/pokemon.png"><img src="Pokemon/pokemon.png" width="250" alt="Pokemon"></a><br>
+      <a href="Pokemon">Pokemon</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Homer/homer.png"><img src="Homer/homer.png" width="250" alt="Homer"></a><br>
+      <a href="Homer">Homer</a>
+    </td>
+    <td align="center">
+      <a href="cartoon-face/cartoon-face.png"><img src="cartoon-face/cartoon-face.png" width="250" alt="Cartoon-Face"></a><br>
+      <a href="cartoon-face">Cartoon-Face</a>
+    </td>
+    <td align="center">
+      <a href="apple/apple.png"><img src="apple/apple.png" width="250" alt="Apple"></a><br>
+      <a href="apple">Apple</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="citizen/citizen.png"><img src="citizen/citizen.png" width="250" alt="Citizen"></a><br>
+      <a href="citizen">Citizen</a>
+    </td>
+  </tr>
+</table>

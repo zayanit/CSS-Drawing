@@ -13,7 +13,7 @@ Each drawing has its own top-level folder (`FERB-FACE/`, `SHANAB/`, `Pokemon/`, 
 - `style.css`: all the drawing logic
 - a `.png` screenshot of the finished result, which `README.md` embeds
 
-When you add a new drawing, follow the same layout: a new folder with `index.html`, `style.css`, and a screenshot. Then add a `## [<Name>](<folder>)` section with the screenshot to `README.md`, using relative paths (`![<Name>](<folder>/<file>.png)`).
+When you add a new drawing, follow the same layout: a new folder with `index.html`, `style.css`, and a screenshot. Then add it to the gallery table in `README.md`: a `<td>` with a 250px-wide thumbnail linked to the full-size screenshot, and the name linked to the folder, using relative paths. Keep three cells per row.
 
 ## CSS drawing conventions
 
