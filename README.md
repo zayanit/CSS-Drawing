@@ -37,8 +37,8 @@ Click a thumbnail to see it full size, or a name to see its code.
   </tr>
   <tr>
     <td align="center">
-      <a href="citizen/citizen.png"><img src="citizen/citizen.png" width="250" alt="Citizen"></a><br>
-      <a href="citizen">Citizen</a>
+      <a href="rolex/rolex.png"><img src="rolex/rolex.png" width="250" alt="Rolex"></a><br>
+      <a href="rolex">Rolex</a>
     </td>
   </tr>
 </table>
