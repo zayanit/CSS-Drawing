@@ -40,5 +40,9 @@ Click a thumbnail to see it full size, or a name to see its code.
       <a href="rolex/rolex.png"><img src="rolex/rolex.png" width="250" alt="Rolex"></a><br>
       <a href="rolex">Rolex</a>
     </td>
+    <td align="center">
+      <a href="nike/nike.png"><img src="nike/nike.png" width="250" alt="Nike"></a><br>
+      <a href="nike">Nike</a>
+    </td>
   </tr>
 </table>
