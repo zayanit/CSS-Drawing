@@ -44,5 +44,9 @@ Click a thumbnail to see it full size, or a name to see its code.
       <a href="nike/nike.png"><img src="nike/nike.png" width="250" alt="Nike"></a><br>
       <a href="nike">Nike</a>
     </td>
+    <td align="center">
+      <a href="puma/puma.png"><img src="puma/puma.png" width="250" alt="Puma"></a><br>
+      <a href="puma">Puma</a>
+    </td>
   </tr>
 </table>
